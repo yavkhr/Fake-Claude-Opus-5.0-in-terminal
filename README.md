@@ -1,0 +1,1 @@
+# Fake-Claude-Opus-5.0-in-terminal
